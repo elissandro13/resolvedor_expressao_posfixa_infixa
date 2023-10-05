@@ -18,14 +18,17 @@ INFIXA
 * Saída: RESOLVE # 34.510905
 * LER INFIXA  ( ( ( ( 4.771053 ) / ( 8.509878 ) ) + ( ( 2.799444 ) - ( 6.606407 ) ) ) - ( ( 3.703479 ) / ( 6.146766 ) ) )
 POSFIXA
-* RESOLVE # -3.848823
+* Saída: RESOLVE # -3.848823
 
 ## Estrtura
-  |- src
-  |- bin
-  |- obj
-  |- include
-  Makefile
+*  |- src
+*  |- bin
+*  |- obj
+*  |- include
+*  Makefile
+
+ ## Uso
+ * 
 
 
 
