@@ -28,7 +28,7 @@ POSFIXA
 *  Makefile
 
  ## Uso
- * 
+ * make run
 
 
 
