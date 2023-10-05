@@ -14,9 +14,6 @@ EXE = $(BIN)/main
 run: $(EXE)
 	$(EXE) 
 
-all:  $(EXE)
-	$(EXE) -d 10 -s
-
 #colocar -pg para debugar
 
 $(BIN)/main: $(OBJS)
