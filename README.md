@@ -19,6 +19,7 @@ INFIXA
 * LER INFIXA  ( ( ( ( 4.771053 ) / ( 8.509878 ) ) + ( ( 2.799444 ) - ( 6.606407 ) ) ) - ( ( 3.703479 ) / ( 6.146766 ) ) )
 POSFIXA
 * Saída: RESOLVE # -3.848823
+* Ex: ./bin/main < entdouble.s11.n10.i.in
 
 ## Estrtura
 *  |- src
@@ -29,6 +30,7 @@ POSFIXA
 
  ## Uso
  * make run
+ * ./bin/main < file.in
 
 
 
