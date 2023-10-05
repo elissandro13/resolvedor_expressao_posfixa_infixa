@@ -28,9 +28,12 @@ POSFIXA
 *  |- include
 *  Makefile
 
- ## Uso
+## Uso
  * make run
  * ./bin/main < file.in
+
+## To-Do
+* testes automáticos
 
 
 
